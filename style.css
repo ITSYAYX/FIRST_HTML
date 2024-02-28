@@ -1,0 +1,19 @@
+body {
+  font-size: 100%;
+  background-color: blue;
+}
+
+.lich {
+  height: 400px;
+  width: 600px;
+  display: flex;
+  align-self: center;
+  border: 1px solid white;
+  padding: 10px;
+}
+
+.nome-cantora {
+  margin-top: 50px;
+  font-family: "Pushster", cursive;
+  font-weight: 400PX;
+}
