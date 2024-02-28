@@ -1,13 +1,18 @@
 body {
   font-size: 100%;
-  background-color: blue;
+  background-color: #99a2e5;
+}
+
+img {
+  margin-left: 35%;
+  margin-right: auto;
 }
 
 .lich {
-  height: 400px;
-  width: 600px;
+  height: 200px;
+  width: 200px;
   display: flex;
-  align-self: center;
+  align-self: ;
   border: 1px solid white;
   padding: 10px;
 }
@@ -16,4 +21,5 @@ body {
   margin-top: 50px;
   font-family: "Pushster", cursive;
   font-weight: 400PX;
+  margin-bottom: 50px;
 }
